@@ -1,5 +1,5 @@
 yt-dlp
 pydub
 tqdm
-ipywidget
+ipywidgets
 voila
