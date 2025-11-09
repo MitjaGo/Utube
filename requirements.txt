@@ -1,4 +1,5 @@
 yt-dlp
 pydub
 tqdm
-ipywidg
+ipywidget
+voila
